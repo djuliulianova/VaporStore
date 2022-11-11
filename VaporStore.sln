@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VaporStore", "VaporStore\VaporStore.csproj", "{76836E56-8866-4AD0-A16C-D8D6E326A4E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{5BA021BA-BAAB-4467-875C-21CAEA49C8AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{86AD0277-4A0E-4653-902A-0DF8B0061EC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76836E56-8866-4AD0-A16C-D8D6E326A4E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76836E56-8866-4AD0-A16C-D8D6E326A4E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76836E56-8866-4AD0-A16C-D8D6E326A4E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76836E56-8866-4AD0-A16C-D8D6E326A4E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BA021BA-BAAB-4467-875C-21CAEA49C8AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BA021BA-BAAB-4467-875C-21CAEA49C8AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BA021BA-BAAB-4467-875C-21CAEA49C8AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BA021BA-BAAB-4467-875C-21CAEA49C8AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86AD0277-4A0E-4653-902A-0DF8B0061EC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86AD0277-4A0E-4653-902A-0DF8B0061EC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86AD0277-4A0E-4653-902A-0DF8B0061EC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86AD0277-4A0E-4653-902A-0DF8B0061EC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0B772C9-D65D-4810-B459-A54484806E35}
+	EndGlobalSection
+EndGlobal
